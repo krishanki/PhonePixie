@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# PhoneGenie API Comprehensive Test Suite
+# PhonePixie API Comprehensive Test Suite
 # Tests all scenarios through CLI API calls
 
 API_URL="http://localhost:3000/api/chat"
@@ -15,7 +15,7 @@ FAIL=0
 TOTAL=0
 
 echo "======================================"
-echo "  PhoneGenie API Test Suite"
+echo "  PhonePixie API Test Suite"
 echo "======================================"
 echo ""
 

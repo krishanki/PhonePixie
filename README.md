@@ -1,13 +1,13 @@
-# 📱 PhoneGenie - AI Shopping Chat Agent
+# 📱 PhonePixie - AI Shopping Chat Agent
 
 An intelligent mobile phone shopping assistant powered by Google Gemini AI. Helps customers discover, compare, and buy mobile phones through natural language conversations.
 
-🔗 **Live Demo**: [https://phone-genie-one.vercel.app/](https://phone-genie-one.vercel.app/)  
+🔗 **Live Demo**: [https://phone-pixie.vercel.app/](https://phone-pixie.vercel.app/)  
 ✅ **Build Status**: Production-Ready & Deployed
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents 
 
 - [Quick Start](#-quick-start)
 - [Tech Stack & Architecture](#-tech-stack--architecture)
@@ -31,8 +31,8 @@ An intelligent mobile phone shopping assistant powered by Google Gemini AI. Help
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/PhoneGenie.git
-   cd PhoneGenie
+   git clone https://github.com/yourusername/PhonePixie.git
+   cd PhonePixie
    ```
 
 2. **Install dependencies**
@@ -407,7 +407,7 @@ What phone features are you interested in?"
    git init
    git add .
    git commit -m "Initial commit"
-   git remote add origin https://github.com/yourusername/PhoneGenie.git
+   git remote add origin https://github.com/yourusername/PhonePixie.git
    git push -u origin main
    ```
 
@@ -460,7 +460,7 @@ CMD ["npm", "start"]
 ## 📂 Project Structure
 
 ```
-PhoneGenie/
+PhonePixie/
 ├── data/
 │   └── mobiles.json              # 980 phone dataset (Kaggle)
 ├── src/

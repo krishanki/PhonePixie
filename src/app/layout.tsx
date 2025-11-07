@@ -4,10 +4,10 @@ import { ComparisonProvider } from "@/contexts/ComparisonContext";
 import { ThemeProvider } from "@/contexts/ThemeContext";
 
 export const metadata: Metadata = {
-  title: "PhoneGenie - AI Shopping Assistant",
+  title: "PhonePixie - AI Shopping Assistant",
   description: "Find the perfect mobile phone with AI-powered recommendations. Compare prices, specs, and features across 970+ phones.",
   keywords: ["phone", "mobile", "smartphone", "AI", "shopping", "compare", "search", "assistant"],
-  authors: [{ name: "PhoneGenie" }],
+  authors: [{ name: "PhonePixie" }],
 };
 
 export const viewport = {

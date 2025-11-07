@@ -1,4 +1,4 @@
-# PhoneGenie API Comprehensive Test Suite
+# PhonePixie API Comprehensive Test Suite
 # Tests all scenarios through CLI API calls
 
 $API_URL = "http://localhost:3000/api/chat"
@@ -7,7 +7,7 @@ $FAIL = 0
 $TOTAL = 0
 
 Write-Host "======================================" -ForegroundColor Cyan
-Write-Host "  PhoneGenie API Test Suite" -ForegroundColor Cyan
+Write-Host "  PhonePixie API Test Suite" -ForegroundColor Cyan
 Write-Host "======================================" -ForegroundColor Cyan
 Write-Host ""
 

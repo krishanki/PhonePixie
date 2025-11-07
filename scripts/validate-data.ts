@@ -8,7 +8,7 @@
 
 import { printValidationReport } from '../src/lib/utils/data-validator';
 
-console.log('🔍 Running PhoneGenie Data Validation...\n');
+console.log('🔍 Running PhonePixie Data Validation...\n');
 
 try {
   printValidationReport();

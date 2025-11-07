@@ -52,7 +52,7 @@ export default function Home() {
               <div>
                 <h1 className="text-lg sm:text-2xl font-bold tracking-tight">
                   <span className="text-slate-800 dark:text-slate-100">Phone</span>
-                  <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">Genie</span>
+                  <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">Pixie</span>
                 </h1>
                 <p className="text-slate-600 dark:text-slate-400 text-[10px] sm:text-xs font-normal flex items-center gap-1.5">
                   <span className="inline-block w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></span>

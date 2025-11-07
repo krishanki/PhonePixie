@@ -1,6 +1,6 @@
 #!/usr/bin/env ts-node
 /**
- * PhoneGenie API Test Suite
+ * PhonePixie API Test Suite
  * 
  * Comprehensive automated testing covering all scenarios:
  * - AI Accuracy (search, compare, explain, details, general)
@@ -647,7 +647,7 @@ async function main() {
   console.log(`${colors.bright}${colors.magenta}`);
   console.log('╔════════════════════════════════════════════════════════════╗');
   console.log('║                                                            ║');
-  console.log('║         📱 PhoneGenie API Comprehensive Test Suite        ║');
+  console.log('║         📱 PhonePixie API Comprehensive Test Suite        ║');
   console.log('║                                                            ║');
   console.log('╚════════════════════════════════════════════════════════════╝');
   console.log(colors.reset);

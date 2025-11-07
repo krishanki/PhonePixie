@@ -721,7 +721,7 @@ export async function generateGeneralResponse(query: string): Promise<string> {
     lowerQuery.includes("hi") ||
     lowerQuery.includes("capabilities")
   ) {
-    return `👋 Hello! I'm PhoneGenie, your AI-powered mobile shopping assistant!
+    return `👋 Hello! I'm PhonePixie, your AI-powered mobile shopping assistant!
 
 **Here's what I can help you with:**
 

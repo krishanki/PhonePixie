@@ -16,7 +16,7 @@ export default function ChatInterface() {
     {
       id: "welcome",
       role: "assistant",
-      content: "👋 Welcome to PhoneGenie! I'm your AI-powered mobile shopping assistant. I can help you:\n\n✨ Find perfect phones based on your budget\n🔍 Compare different models in detail\n📚 Explain technical features and specs\n💡 Recommend phones for your specific needs\n\nTry asking me something like:",
+      content: "👋 Welcome to PhonePixie! I'm your AI-powered mobile shopping assistant. I can help you:\n\n✨ Find perfect phones based on your budget\n🔍 Compare different models in detail\n📚 Explain technical features and specs\n💡 Recommend phones for your specific needs\n\nTry asking me something like:",
       timestamp: new Date(),
     },
   ]);
@@ -245,7 +245,7 @@ export default function ChatInterface() {
                     <div className="w-2 sm:w-2.5 h-2 sm:h-2.5 bg-gradient-to-r from-purple-400 to-pink-400 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></div>
                     <div className="w-2 sm:w-2.5 h-2 sm:h-2.5 bg-gradient-to-r from-pink-400 to-indigo-400 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></div>
                   </div>
-                  <span className="text-slate-700 dark:text-slate-300 text-xs sm:text-[15px] font-normal">Genie is thinking...</span>
+                  <span className="text-slate-700 dark:text-slate-300 text-xs sm:text-[15px] font-normal">Pixie is thinking...</span>
                 </div>
               </div>
             </div>
